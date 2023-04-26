@@ -43,7 +43,7 @@
     Olá, meu nome é Arthur e atualmente estou com 21 anos. Sou um verdadeiro aficionado por desenvolver e melhorar produtos através de soluções inovadoras.
   </p>
   <p>
-    Minha experiência com desenvolvendo chega a 2 anos, que foram adquiridos através de minha ativa participação em projetos dentro da faculdade, graças a eles pude desenvolver uma perspectiva e conhecimento horizontal, o que contribuiu para que eu fosse capaz de participar de projetos em equipe e construir softwares de qualidade.
+    Minha experiência com desenvolvimento chega a 2 anos, que foram adquiridos através de minha ativa participação em projetos dentro da faculdade, graças a eles pude desenvolver uma perspectiva e conhecimento horizontal, o que contribuiu para que eu fosse capaz de participar de projetos em equipe e construir softwares de qualidade.
   </p>
 </div>
  
