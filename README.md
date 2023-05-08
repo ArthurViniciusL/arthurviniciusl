@@ -16,7 +16,7 @@
     
  
   <div align="left">
-    <h3>Eu domino</h3>    
+    <h3>Hard Skills</h3>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="60" alt="python logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
@@ -29,7 +29,7 @@
 ###
   
   <div align="left">
-    <h3>Eu estou estudando<h3>
+    <h3>Futuras Hard Skills<h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="60" alt="spring logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="60" alt="typescript logo"  >
