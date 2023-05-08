@@ -1,11 +1,12 @@
 <h1 align="center">Arthur Vinicius</h1>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurviniciusl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurviniciusl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="200" alt="languages graph"  />
- 
+ <h1 palign="center" > Um pouco sobre mim</h1>
+  <p>
+    Olá, meu nome é Arthur e atualmente estou com 21 anos. Sou um verdadeiro aficionado por desenvolver e melhorar produtos através de soluções inovadoras.
+  </p>
+  <p>
+    Minha experiência com desenvolvimento chega a 2 anos, que foram adquiridos através de minha ativa participação em projetos dentro da faculdade, graças a eles pude desenvolver uma perspectiva e conhecimento horizontal, o que contribuiu para que eu fosse capaz de participar de projetos em equipe e construir softwares de qualidade.
+  </p>
 </div>
 
 #
@@ -36,18 +37,13 @@
   </div>
 </div>
 
+
 #
-    
-  <h1 palign="center" > Um pouco sobre mim</h1>
-  <p>
-    Olá, meu nome é Arthur e atualmente estou com 21 anos. Sou um verdadeiro aficionado por desenvolver e melhorar produtos através de soluções inovadoras.
-  </p>
-  <p>
-    Minha experiência com desenvolvimento chega a 2 anos, que foram adquiridos através de minha ativa participação em projetos dentro da faculdade, graças a eles pude desenvolver uma perspectiva e conhecimento horizontal, o que contribuiu para que eu fosse capaz de participar de projetos em equipe e construir softwares de qualidade.
-  </p>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurviniciusl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurviniciusl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
- 
-#
 
 <div align="center">
   <h3>Outras formas de contato</h3>
