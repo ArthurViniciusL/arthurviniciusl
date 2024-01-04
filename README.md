@@ -32,7 +32,6 @@
   
   <div align="left">
     <h3>Futuras Hard Skills<h3>
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="60" alt="typescript logo"  >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="60" alt="nextjs logo"  />
   </div>
