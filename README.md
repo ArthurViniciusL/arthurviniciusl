@@ -2,10 +2,10 @@
 
  <h1 palign="center" > Um pouco sobre mim</h1>
   <p>
-    Olá, meu nome é Arthur e atualmente estou com 21 anos. Sou um verdadeiro aficionado por desenvolver e melhorar produtos através de soluções inovadoras.
+   Olá, meu nome é Arthur e estou no sétimo período do curso de Sistemas de Informação. Tenho uma paixão por criar e aprimorar produtos através de soluções criativas, e ao longo dos últimos quatro anos, acumulei experiência no desenvolvimento de software graças ao meu contato com projetos da faculdade.
   </p>
   <p>
-    Minha experiência com desenvolvimento chega a 2 anos, que foram adquiridos através de minha ativa participação em projetos dentro da faculdade, graças a eles pude desenvolver uma perspectiva e conhecimento horizontal, o que contribuiu para que eu fosse capaz de participar de projetos em equipe e construir softwares de qualidade.
+    Minha jornada acadêmica em questão me proporcionou a oportunidade de trabalhar em diversos projetos vinculados à universidade. Essas experiências não só aprimoraram minhas habilidades como desenvolvedor, mas também me permitiram explorar outros papéis. Em várias ocasiões, pude atuar como designer de UI e UX, Scrum Master e QA.
   </p>
 </div>
 
