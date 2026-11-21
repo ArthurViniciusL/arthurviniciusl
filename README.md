@@ -1,30 +1,31 @@
-<h1 align="center">Arthur Vinicius</h1>
+# Arthur Lucena
 
- <h1 palign="justify" > Um pouco sobre mim</h1>
-  <p>
-   Olá, meu nome é Arthur e sou bacharel em Sistemas de Informação. Tenho uma paixão por criar e aprimorar produtos através de soluções criativas, e ao longo dos últimos quatro anos, acumulei experiência no desenvolvimento de software graças ao meu contato com projetos da faculdade.
-  </p>
-  <p>
-    Minha jornada acadêmica em questão me proporcionou a oportunidade de trabalhar em diversos projetos vinculados à universidade. Essas experiências não só aprimoraram minhas habilidades como desenvolvedor, mas também me permitiram explorar outros papéis. Em várias ocasiões, pude atuar como designer de UI e UX, Scrum Master.
-  </p>
-</div>
+**Software Engineer | Full Stack · Java · Spring Boot · React · Node.js · TypeScript**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurViniciusL&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&order=2" height="300" alt="languages graph"  />
-</div>
+Software Engineer full stack, com experiência em APIs REST no back-end e em React e TypeScript no front-end. Meu foco de evolução é back-end com Java e Spring Boot.
 
-###
-   
-<div align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/arthur-vinícius-79a8441b6/" target="_blank">
-       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:arthurviniciussl.contato@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="https://www.instagram.com/arthur.vsl/" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-  </div>
-</div>
+- **Hoje:** trabalho pela Else Consultoria no MecaPlanning, SaaS de gestão pós-venda automotiva da francesa 3DSoft. Integro o front-end (React e TypeScript) a APIs REST de microsserviços e escrevo testes end-to-end com Cypress antes da implementação (TDD), executados no GitLab CI a cada merge request.
+- **Antes:** fui responsável por todo o back-end do MVP de uma startup de educação em enfermagem: API REST em Nest.js com JWT, PostgreSQL modelado com Prisma e deploy com Docker na DigitalOcean.
+- **Em Java:** desenvolvi o [Task Flow](https://github.com/ArthurViniciusL/task-flow-back), API REST com Spring Boot 3, Spring Security e JWT, JPA e testes com JUnit e Mockito.
+- **IA no desenvolvimento:** uso Claude Code e skills de agentes que criei para revisão de código e análise de regras de negócio. Reviso e valido cada alteração.
+
+## Stack
+
+- **Back-end:** Java · Spring Boot · Spring Security · JPA · Node.js · Nest.js · Express · Fastify · APIs REST · JWT
+- **Banco de dados:** PostgreSQL · MySQL · MongoDB · Prisma
+- **Front-end:** React · Next.js · TypeScript · Tailwind CSS
+- **Testes:** Cypress · TDD · JUnit · Mockito
+- **DevOps:** Docker · Docker Compose · GitLab CI · Linux
+
+## Projeto em destaque
+
+**[Task Flow](https://github.com/ArthurViniciusL/task-flow-back)**: aplicação full stack de gestão de tarefas e projetos, com kanban, comentários e notificações.
+Back-end em Java 21 e Spring Boot 3.5 (Spring Security, JWT, JPA, MySQL, OpenAPI) · [front-end](https://github.com/ArthurViniciusL/task-flow-front) em React e TypeScript.
+
+## In English
+
+Full stack Software Engineer from Brazil (Java/Spring Boot, Node.js, React/TypeScript). I currently build features and test-first Cypress E2E suites for a French automotive after-sales SaaS, working daily with an international team. Open to remote opportunities.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/arthur-lucena-79a8441b6) · [arthur.vsl.contato@gmail.com](mailto:arthur.vsl.contato@gmail.com) · [arthur-vsl.vercel.app](https://arthur-vsl.vercel.app)
