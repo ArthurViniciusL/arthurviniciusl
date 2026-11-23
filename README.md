@@ -17,11 +17,6 @@ Software Engineer full stack, com experiência em APIs REST no back-end e em Rea
 - **Testes:** Cypress · TDD · JUnit · Mockito
 - **DevOps:** Docker · Docker Compose · GitLab CI · Linux
 
-## Projeto em destaque
-
-**[Task Flow](https://github.com/ArthurViniciusL/task-flow-back)**: aplicação full stack de gestão de tarefas e projetos, com kanban, comentários e notificações.
-Back-end em Java 21 e Spring Boot 3.5 (Spring Security, JWT, JPA, MySQL, OpenAPI) · [front-end](https://github.com/ArthurViniciusL/task-flow-front) em React e TypeScript.
-
 ## In English
 
 Full stack Software Engineer from Brazil (Java/Spring Boot, Node.js, React/TypeScript). I currently build features and test-first Cypress E2E suites for a French automotive after-sales SaaS, working daily with an international team. Open to remote opportunities.
